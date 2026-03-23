@@ -109,7 +109,7 @@ python app.py
 * **Email:** [nadiayousaf031@gmail.com](mailto:nadiayousaf031@gmail.com)
 * **Phone:** 03020898263
 * **GitHub:** [https://github.com/NadiaYousaf](https://github.com/NadiaYousaf)
-* **LinkedIn:** [Insert your LinkedIn link]
+* **LinkedIn:** https://www.linkedin.com/in/nadia-yousaf-534096380/
 
 ---
 
